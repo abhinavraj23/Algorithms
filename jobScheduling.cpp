@@ -40,6 +40,7 @@ class Jobs{
 int main(){
 	int numberOfJobs;
 	cin>>numberOfJobs;
+	//time pass
 	Jobs job[numberOfJobs];
 	int timming[numberOfJobs][2];
 	for(int i=0;i<numberOfJobs;i++){
