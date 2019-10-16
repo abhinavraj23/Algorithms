@@ -10,6 +10,6 @@ Some algorthims written in C++
 * [Kruska Algorithm](https://github.com/abhinavraj23/Algorithms/blob/master/KruskalAlgo.cpp)
 * [Stable Matching](https://github.com/abhinavraj23/Algorithms/blob/master/StableMatching.c)
 * [Job Scheduling](https://github.com/abhinavraj23/Algorithms/blob/master/jobScheduling.cpp)
-* [Tower of Hanoi]
+* Tower of Hanoi
   * [1](https://github.com/abhinavraj23/Algorithms/blob/master/towerOfHanoi1.cpp)
   * [2](https://github.com/abhinavraj23/Algorithms/blob/master/towerOfHanoi2.cpp)
